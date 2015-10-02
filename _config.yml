@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
+title: Cole Judge
 email: judge.52@osu.edu
 url: colejudge.me
-description: "Cole Judge"
+description: "'The greatest deception men suffer is from their own opinions.' - Leonardo Da Vinci"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -19,9 +19,9 @@ social:
   - title: facebook
     url: https://www.facebook.com/cole.judge
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
     url: https://github.com/Colejudge
 
